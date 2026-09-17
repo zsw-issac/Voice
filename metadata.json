@@ -1,0 +1,6 @@
+{
+  "name": "VoiceLive",
+  "description": "实时全双工语音交互应用端，支持连接自建模型服务、双向音频流传输与实时智能打断",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
